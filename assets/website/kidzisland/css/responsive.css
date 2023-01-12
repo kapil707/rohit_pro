@@ -1,0 +1,349 @@
+@media only screen and (min-width:1400px) and (max-width:1920px) {
+    .about-big {
+        position: absolute;
+        top: -100px;
+        right: -125px;
+        z-index: -1;
+    }
+	.banner-offer {
+   width: 42%;
+}
+}
+
+@media only screen and (min-width:1300px) and (max-width:1400px) {
+    .about-big {
+        position: absolute;
+        top: -100px;
+        right: -94px;
+        z-index: -1;
+    }
+}
+
+@media (max-width: 767px) {}
+
+@media (max-width: 991px) {}
+
+@media all and (min-width: 1025px) {}
+
+@media all and (max-width: 1024px) {}
+
+@media all and (max-width: 960px) {}
+
+@media (max-width: 1024px) {}
+
+@media (max-width: 767px) {}
+
+@media (max-width: 1170px) {}
+
+@media (max-width: 980px) {}
+
+@media only screen and (min-width:768px) and (max-width:900px) {}
+
+@media only screen and (min-width:601px) (max-width: 767px) {}
+
+@media only screen and (min-width:481px) and (max-width:600px) {}
+
+@media only screen and (min-width:320px) and (max-width:767px) {
+	.top-menu .navbar-brand img {
+    width: 40%;
+}
+	.banner-offer {
+    position: unset;
+    width: 100%;
+}
+    .mobile-section .btn {
+        border-radius: 0;
+        border: 0;
+    }
+
+    .orderone {
+        order: 1;
+    }
+
+    .ordertwo {
+        order: 2;
+    }
+
+    .about-small img {
+        box-shadow: 20px 20px 20px 0px #0000006b;
+        width: 100%;
+    }
+
+    .pd-100 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .Amenities img {
+        box-shadow: none;
+        margin-bottom: 15PX;
+    }
+
+    .from-banner {
+        padding: 15px;
+    }
+
+    .bg-gray h1 {
+        color: #000;
+        background: #fff;
+        width: 55%;
+        margin: 0px auto;
+        font-size: 24px;
+        padding: 9px;
+    }
+
+    .top-menu .navbar-expand-md .navbar-nav {
+        float: none !important;
+        margin: auto;
+        margin-right: 0;
+    }
+
+    .about-section {
+        padding: 0px 25px;
+    }
+
+    .resp-none img {
+        display: none;
+    }
+
+    .top-menu .nav-item:last-child a {
+        color: #fff;
+        font-weight: 600;
+    }
+
+    .top-menu .navbar-dark .navbar-nav .nav-link {
+        color: #fff;
+        font-size: 14px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+        padding: 7px 15px;
+        position: relative;
+        padding-bottom: 0;
+    }
+
+    .bg-gray h2 {
+        color: #fff;
+
+        font-size: 28px;
+    }
+
+    .main-heding p {
+        text-align: center;
+        /* font-weight: 600; */
+        margin-bottom: 15px;
+        font-size: 12px;
+    }
+
+    .bg-black {
+        background-color: #3a3b36;
+        padding: 35px 0px;
+    }
+
+    .bg-black h4 {
+        color: #fff;
+        font-weight: 600;
+        font-size: 28px;
+    }
+
+    .main-heding-galry p {
+        text-align: center;
+        font-weight: 600;
+        margin-bottom: 50px;
+        font-size: 14px;
+    }
+
+    .main-heding-amets p {
+        text-align: center;
+        font-weight: 600;
+        font-size: 14px;
+    }
+
+    .about-section h1 {
+        font-size: 22px;
+
+        font-weight: 600;
+    }
+
+    .header1 {
+        padding: 15px 0px;
+    }
+
+    .from-banner h4 {
+        text-align: center;
+
+        margin: 8px;
+        font-size: 22px;
+    }
+
+    .gallery img {
+        margin-bottom: 25px;
+        box-shadow: none !important;
+        width: 100%;
+    }
+
+    .main-heding h1 {
+        font-size: 22px;
+        margin-bottom: 25px;
+    }
+
+    .box-color p {
+        text-align: center;
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .main-heding-galry h1 {
+        text-align: center;
+
+        font-weight: 600;
+        font-size: 22px;
+    }
+
+    .box-color h3 {
+        text-align: center;
+        font-size: 24px;
+        margin-bottom: 0px;
+    }
+
+    .main-heding-amets h1 {
+        font-size: 26px;
+    }
+
+    .floor p {
+        background: #fff;
+        text-align: center;
+        padding: 7px;
+        font-weight: 600;
+        font-size: 18px;
+
+        margin-bottom: 25px;
+        line-height: 22px;
+    }
+
+    .pd-50 {
+        padding: 25px 0px;
+    }
+
+    .bg-white {
+        background-color: #fff;
+        padding: 15px;
+        margin-top: 0px;
+    }
+
+    .top-menu .nav-item:last-child {
+        border: none !important;
+        margin-left: 0px;
+        margin-top: 0px;
+        text-align: center;
+    }
+
+    .navbar-nav li {
+        width: 100%;
+        margin: 0 auto 1px;
+        padding: 5px 0;
+        border-bottom: 0;
+        background: #3b3a38;
+        border-bottom: .5px solid #ccc;
+        /*  border-radius: 10px;*/
+    }
+
+    .loct-ul li {
+        display: inline-block;
+        list-style: none;
+        text-align: center;
+        width: 100%;
+        line-height: 18px;
+    }
+
+    .brand-logo li {
+        list-style: none;
+        display: inline-block;
+        width: 43%;
+        margin-left: 20px;
+        margin-bottom: 30px;
+    }
+
+    .btn-text button {
+        margin-top: 25px;
+    }
+
+.mobile-section .btn-success {
+        background: #344058;
+width: 32.5%;
+font-size: 11px;
+    }
+
+    .mobile-section {
+        background: #000;
+        display: block;
+    }
+
+    .about-big {
+        position: absolute;
+        top: -100px;
+        right: -94px;
+        z-index: -1;
+        display: none;
+    }
+
+    .navsection {
+        position: absolute;
+        left: 0;
+        right: 0;
+        background: transparent;
+        padding: 0;
+    }
+
+    .navbar-dark .navbar-toggler {
+        color: rgba(0, 0, 0, 0.5);
+        border-color: rgba(0, 0, 0, 0.1);
+        background: #3b3a38;
+    }
+
+    .nabvar-manu {
+        position: absolute;
+        z-index: 999;
+        top: 75px;
+        width: 100%;
+    }
+
+    .from-banner h4 span {
+        display: inline-block;
+
+    }
+
+    .mob-banner {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .footer p {
+        margin-bottom: 25px;
+    }
+
+    .from-banner h5 {
+        text-align: center;
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+
+    .prc-bg {
+        font-size: 16px !important;
+/*        background: #3a3b36;*/
+        color: #fff;
+        padding: 5px;
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    .feature {
+        background-attachment: unset;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+}
+
+@media only screen and (min-width:375px) and (max-width:380px) {}
+
+@media only screen and (min-width:320px) and (max-width:360px) {}

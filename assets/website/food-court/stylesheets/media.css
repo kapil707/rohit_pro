@@ -1,0 +1,479 @@
+@media only screen and (max-width: 1880px) {
+		.header_info img { right: 10px; }
+	}
+
+	@media only screen and (max-width: 1620px) {
+		.centering { padding: 0 10px; }
+	
+	.Bannersec li .text h1 { font-size: 61px; }
+	
+	.Contctside .form .formside { width: 70%; padding-top: 100px; }
+	.Contctside .form .formside h2 { font-size: 25px; padding-bottom: 15px; }
+	.Contctside .form .formside li { margin-bottom: 10px; }
+	.Contctside .form .formside textarea { height: 80px; }
+	
+	.Aboutside li .text#height .use .team li { font-size: 15px; }
+
+	.portfolioside ul#portfolio li.item { width: 32.48%; }
+	.portfolioside ul#portfolio li.item img { width: 100%; }
+	
+	
+	}
+
+	@media only screen and (max-width: 1400px) {
+
+	a#open-pop-up-1 { top: 55% !important; }
+	.pop-up { top: 120px !important; }
+
+	.Contctside .form .formside { width: 70%; padding-top: 50px; }
+	
+	.Downloadside li h3 { font-size: 24px; }
+	
+	.header { height: 80px; padding-top: 15px; }
+	.header .drawer-hamburger { top: 10px !important; }
+	.header .site-logo a img { width: 120px; }
+	.header .top_contact li { font-size: 18px; }
+	.header.smaller .site-logo { width: 55%; }
+	.header.smaller { padding-top: 10px; }
+	.header.smaller .top_contact { padding-top: 20px; }
+
+	}
+
+	/* Custom */
+	@media only screen and (min-width: 1025px) and (max-width: 1220px) {
+	
+	.header { display: block; }
+	
+	.content_info .text { padding: 30px; }
+		
+	.header .top_contact { width: 24%; }		
+	.header .top_contact li { font-size: 18px; }
+	
+	.Bannersec li { height: 550px !important; }
+	.Bannersec li .text { width: 85%; padding: 220px 15px 0; }
+	.Bannersec li .text h1 { font-size: 45px; line-height: normal; padding-bottom: 8px; }
+	.Bannersec li .text p { padding: 0 !important; font-size: 22px; line-height: normal; }
+	.Bannersec a.bottom { bottom: 80px; }
+	.Bannersec a.bottom span { width: 30px; height: 50px; }
+	
+	.Officeside .office .right { width: 46%; }
+	.Officeside .office .right .text li { font-size: 16px; }
+	.Officeside .office .left { width: 46%; }
+	.Officeside .office .left .text p { font-size: 16px; }
+	
+	.Retailside .retail .left .text h2 { padding-bottom: 0; }
+	.Retailside .retail .left .text p { font-size: 16px; }
+	.Retailside .retail .rightsec .text { height: 446px; }
+	.Retailside .retail .rightsec .text li { font-size: 15px; margin-bottom: 10px; }
+	
+	.Multiplexside .left { width: 46%; }
+	.Multiplexside .left .image img { margin-left: 30px; } 
+	.Multiplexside .right { width: 46%; }
+	.Multiplexside .right .text { padding-top: 0; }
+	.Multiplexside .right .text li { font-size: 15px; margin-bottom: 10px; }
+	
+	.Restaurantside .left .text p { font-size: 16px; }
+	.Restaurantside .right .text li { font-size: 16px; }
+	.Restaurantside .right .text { height: 434px; }
+	
+	.Entertainmentside { padding-top: 100px; }
+	.Entertainmentside .right .text p { font-size: 16px; }
+	.Entertainmentside .right .move { display: none; }
+	
+	.Expresswayside .left .text p { font-size: 16px; }
+	
+	.Brandside { padding: 40px 0; }
+	.Brandside li { width: 12%; }
+	
+	.Uniqueside .left a img { width: 120px; }
+	.Uniqueside .mid p { font-size: 30px; }
+	.Uniqueside .right a { padding: 8px 30px; margin-top: 0; }
+
+	.Aboutside li .text#height .use { padding: 20px; }
+	.Aboutside li .text#height .use .team li { font-size: 14px; margin-top: 6px; }
+	.Aboutside li .image img.regd { margin: 80px auto; }	
+
+	
+	.portfolioside ul#portfolio li.item { width: 32.31%; }
+	.portfolioside ul#portfolio li.item img { width: 100%; }
+	
+	.AboutVersion1 .first .Left .text { width: 110%; padding: 40px; }
+	.AboutVersion1 .first .Right img { width: 48.26%; }
+	.AboutVersion1 .first img { width: 48%; }
+	.AboutVersion1 .first .Text .textside { padding: 40px; }
+	.AboutVersion1 .Second .Image .secimg { padding-left: 0; }
+	.AboutVersion1 .Second .Text .textside { width: 110%; padding: 40px; left: -50px; }
+	.AboutVersion1 .Second .Text .textside h2 { font-size: 34px; }
+	.AboutVersion1 .first .Text .textside h2 { font-size: 34px; }
+	.AboutVersion1 .Second .Image .secimg img { width: 48%; }
+	.AboutVersion1 .Second img { width: 48.26%; }
+	
+	.ContactVersion1 .ouraddress { margin-left: 100px; width: 43%; }
+	.ContactVersion1 .ouraddress .text { height: auto; }
+	.ContactVersion1 .bg { width: 40%; top: 150px; right: 120px; }
+
+	.Downloadside li { width: 30%; }
+	.Downloadside li h3 { font-size: 28px; }
+	
+	.Contctside .form .formside { width: 90%; padding: 30px 0 0; }
+	.Contctside .form .formside h2 { font-size: 22px; padding-bottom: 10px; }
+	.Contctside .form .formside li { margin-bottom: 10px; }
+	.Contctside .form .formside input { height: 35px; padding: 10px; }
+	.Contctside .form .formside textarea { height: 50px; }
+
+
+	}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (max-width: 1024px) {
+	
+	.modal { padding-top: 45%; }
+	
+	.header { height: 78px; }
+	.drawer-hamburger { padding-top: 10px !important; }
+	.header .site-logo a img { width: 100px; }
+	.header .top_contact { width: 30%; padding-top: 6px; }
+	.header .top_contact li { font-size: 16px; }
+	.header .top_contact li a span .fa { font-size: 25px; vertical-align: middle; }
+
+	.header.smaller { height: 78px; }
+	.header.smaller .drawer-hamburger { padding-top: 17px !important; }
+	.header.smaller .site-logo a img { width: 100px; }
+	.header.smaller .top_contact { width: 30%; padding-top: 12px; }
+	.header.smaller .top_contact li { font-size: 16px; }
+	.header.smaller .top_contact li a span .fa { font-size: 28px; vertical-align: middle; }
+
+	.Bannersec li { height: 450px !important; }
+	.Bannersec li .text { width: 85%; padding: 180px 15px 0; }
+	.Bannersec li .text h1 { font-size: 35px; line-height: normal; padding-bottom: 8px; }
+	.Bannersec li .text p { padding: 0 !important; font-size: 20px; line-height: normal; }
+	.Bannersec a.bottom { bottom: 80px; }
+	.Bannersec a.bottom span { width: 30px; height: 50px; }
+	
+	.Welcomeside li { font-size: 35px; padding: 15px 0; }
+	.Welcomeside li::before { margin-left: -175px; width: 350px; }
+	.Welcomeside p { padding: 15px 0 0; }
+	.Welcomeside li:last-child { font-size: 25px; }
+	
+	.Officeside .office .right { width: 45%; }
+	.Officeside .office .right .text h2 { font-size: 32px; padding-bottom: 25px; }
+	.Officeside .office .right .text li { font-size: 14px; margin-bottom: 16px !important; }
+	.Officeside .office .left { width: 45%; }
+	.Officeside .office .left .text h2 { font-size: 32px; }
+	.Officeside .office .left .text p { font-size: 14px; }
+	
+	.Retailside .retail { padding-top: 70px; }
+	.Retailside .retail .left .text h2 { font-size: 32px; }
+	.Retailside .retail .left .text p { font-size: 14px; padding-bottom: 15px; }
+	.Retailside .retail .rightsec .text { height: 435px; padding: 15px; }
+	.Retailside .retail .rightsec .text h2 { font-size: 32px; }
+	.Retailside .retail .rightsec .text li { font-size: 14px; margin-bottom: 10px; }
+	
+	.Multiplexside { padding-top: 70px; }
+	.Multiplexside .left .image img { margin: 0 0 0 15px; }
+	.Multiplexside .right .text { padding-top: 0; }
+	.Multiplexside .right .text h2 { font-size: 32px; padding-bottom: 10px; }
+	.Multiplexside .right .text li { font-size: 14px; margin-bottom: 5px; }
+	
+	.Restaurantside { padding-top: 70px; }
+	.Restaurantside .left .text h2 { font-size: 32px; }
+	.Restaurantside .left .text p { font-size: 14px; }
+	.Restaurantside .right .text { height: 403px; }
+	.Restaurantside .right .text h2 { font-size: 32px; }
+	.Restaurantside .right .text li { font-size: 14px; }
+	
+	.Entertainmentside { padding-top: 100px; }
+	.Entertainmentside .right .text h2 { font-size: 32px; }
+	.Entertainmentside .right .text p { font-size: 14px; }
+	.Entertainmentside .right .move { display: none; }
+
+	.Expresswayside .left .text h2 { font-size: 32px; }
+	.Expresswayside .left .text p { font-size: 14px; }
+	
+	.Uniqueside .left a img { width: 100px; }
+	.Uniqueside .mid p { font-size: 25px; padding-top: 10px; }
+	.Uniqueside .right a { font-size: 18px; padding: 5px 20px; }
+
+	.Aboutside .aboutbanner .overlay { padding: 200px 0 130px; }
+	.Aboutside li .image img.regd { margin: 50px auto; }	
+	.Aboutside li .text#height .use { padding: 10px 15px; }
+	.Aboutside li .text#height .use .team { height: 183px; overflow: scroll; }
+	.Aboutside li .text#height .use p { padding: 10px 0; font-size: 14px; }
+	.Aboutside li .text .use a { padding: 5px 15px; }
+	.Aboutside li .text#height .use .team li { font-size: 14px; }
+	
+	.portfolioside ul#portfolio li.item { width: 31.94%; }
+	.portfolioside ul#portfolio li.item img { width: 100%; }
+	
+	.ContactVersion1 .overlay { padding: 100px 0 50px; }
+	.ContactVersion1 h2 { padding-bottom: 30px; }
+	.ContactVersion1 .Map { margin-left: 35px; }
+	.ContactVersion1 .Tab { width: 45%; }
+	.ContactVersion1 .Tab .contact { top: 30px; left: -35px; }
+	
+	.ContactVersion1 .ouraddress { margin-left: 70px; width: 50%; }
+	.ContactVersion1 .ouraddress .text { padding: 30px; height: auto; }
+	.ContactVersion1 .bg { padding: 30px; top: 108px; right: 50px; width: 40%; }
+	.ContactVersion1 .bg h4 { padding-bottom: 20px; }
+	
+	.Locationside .overlay { padding: 120px 0 70px; }
+	.Locationside .left .text { padding: 54px 0 50px 54px; }
+	
+	.AboutVersion1 .overlay { padding-bottom: 200px; }
+	.AboutVersion1 .first { padding-top: 90px; }
+	.AboutVersion1 .first .Left .text { padding: 20px; right: -20px; width: 105%; }
+	.AboutVersion1 .first .Left .text p { font-size: 14px; }
+	.AboutVersion1 .first .Left .text h2 { font-size: 25px; }
+	.AboutVersion1 .first .Right img { width: 47%; }
+	.AboutVersion1 .first img { width: 47.65%; }
+	.AboutVersion1 .first .Text .textside { padding: 20px; }
+	.AboutVersion1 .Second img { width: 47%; }
+	.AboutVersion1 .Second .Image .secimg { padding-left: 0; }
+	.AboutVersion1 .Second .Text .textside { padding: 20px; width: 108%; left: -33px; top: 20px; }
+	.AboutVersion1 .Second .Text .textside h2 { font-size: 25px; }
+	.AboutVersion1 .first .Text .textside h2 { font-size: 25px; }
+	
+	.Contctside .map { width: 100%; float: none; }	
+	.Contctside .form { width: 100%; float: none; }
+	.Contctside .form .formside { padding: 50px 0; }
+	.Contctside .form .formside input { height: 40px; }
+	.Contctside .form .formside textarea { height: 150px; }
+	
+	.Downloadside li { width: 45%; }
+	.Downloadside li h3 { font-size: 27px; }
+	
+	a#open-pop-up-1 { top: 60% !important; }
+
+	
+	}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (max-width: 767px) {
+
+	.modal span.close { right: 15px; }
+
+	.header { padding: 15px 0; height: 95px; }
+	.header .site-logo { width: 100px; float: right; padding-right: 10px; padding-bottom: 2px; }
+	.header nav { padding-left: 10px; }
+	.header .drawer-menu li a.contact { display: block !important; }
+	.header .drawer-hamburger { margin-left: 0; padding: 0 0 20px 10px !important; top: 21px !important; }
+	.header .top_contact { width: 100%; float: none; overflow: hidden; padding: 5px 0; text-align: center; background: #e7245b; }
+	.header .top_contact ul { float: none; }
+	.header .top_contact li { display: inline-block; float: none; padding: 0; margin: 0 1px; font-size: 18px; }
+	.header .top_contact li a span .fa { font-size: 25px; vertical-align: sub; }
+	.header .top_contact li:last-child { float: none; font-weight: 700; }
+	
+	.header.smaller { height: 62px; }
+	.header.smaller .drawer-hamburger { top: 4px !important; }
+	.header.smaller .site-logo { width: 100px; padding-top: 0; }
+	.header.smaller .top_contact { display: none; }
+	
+	.Bannersec li { height: 350px !important; }
+	.Bannersec li .text { width: 85%; padding: 130px 15px 0; }
+	.Bannersec li .text h1 { font-size: 22px; line-height: normal; padding-bottom: 8px; }
+	.Bannersec li .text p { padding: 0 !important; font-size: 18px; line-height: normal; }
+	.Bannersec a.bottom { bottom: 50px; }
+	.Bannersec a.bottom span { width: 20px; height: 40px; }
+	
+	.Welcomeside li { font-size: 30px; padding: 15px 0; }
+	.Welcomeside li::before { margin-left: -150px; width: 300px; }
+	.Welcomeside p { padding: 15px 0 0; }
+	.Welcomeside li:last-child { font-size: 22px; }
+	
+	.Officeside .office { padding-top: 30px; }
+	.Officeside .office .right { width: 100%; float: none; box-shadow: 0px 0px 29px 0px rgba(0,0,0,0.36); margin-top: 30px; }
+	.Officeside .office .right .move { margin: 0; }
+	.Officeside .office .right .text { padding: 10px; }
+	.Officeside .office .right .text h2 { font-size: 25px; }
+	.Officeside .office .right .text li { font-size: 15px; margin-bottom: 10px; }
+	.Officeside .office .left { width: 100%; float: none; margin-top: 10px; }
+	.Officeside .office .left .text { margin: 0; padding: 10px; }
+	.Officeside .office .left .text h2 { font-size: 25px; }
+	.Officeside .office .left .text p { font-size: 15px; padding-bottom: 10px; line-height: none; }
+	.Officeside .office .left .move { width: 100%; float: none; box-shadow: 0px 0px 29px 0px rgba(0,0,0,0.36); }
+	.Officeside .office .left .image img { margin: 0; }
+	
+	.Retailside .retail	{ padding-top: 20px; }
+	.Retailside .retail .left { width: 100%; float: none; }
+	.Retailside .retail .left .text { padding: 0 10px 10px; margin: 0; }
+	.Retailside .retail .left .text h2 { font-size: 25px; }
+	.Retailside .retail .left .text p { font-size: 15px; line-height: none; padding-bottom: 0; }
+	.Retailside .retail .rightsec { width: 100%; float: none; }
+	.Retailside .retail .left .image img { margin: 0; }
+	.Retailside .retail .left .move { margin-bottom: 30px; box-shadow: 0px 0px 29px 0px rgba(0,0,0,0.36); }
+	.Retailside .retail .rightsec .text { padding: 10px; height: 100%; }
+	.Retailside .retail .rightsec .text h2 { font-size: 25px; }
+	.Retailside .retail .rightsec .text li { font-size: 15px; line-height: normal; margin-bottom: 15px; }
+	
+	.Multiplexside { padding-top: 30px; }
+	.Multiplexside .left { width: 100%; float: none; }
+	.Multiplexside .right { width: 100%; float: none; }
+	.Multiplexside .left .move { box-shadow: 0px 0px 29px 0px rgba(0,0,0,0.36); }
+	.Multiplexside .left .image img { margin: 0; padding: 0; }
+	.Multiplexside .right .text { padding-top: 20px; }
+	.Multiplexside .right .text h2 { font-size: 25px; padding-bottom: 15px; }
+	.Multiplexside .right .text li { font-size: 15px; margin-bottom: 15px; }
+	
+	.Restaurantside { padding-top: 30px; }
+	.Restaurantside .left { width: 100%; float: none; }
+	.Restaurantside .left .text { margin: 0; }
+	.Restaurantside .left .text h2 { font-size: 23px; }
+	.Restaurantside .left .text p { font-size: 15px; letter-spacing: normal; }
+	.Restaurantside .left .move { margin: 20px 0; box-shadow: 0px 0px 29px 0px rgba(0,0,0,0.36); }
+	.Restaurantside .left .image img { margin: 0; }
+	.Restaurantside .right { width: 100%; float: none; }
+	.Restaurantside .right .move { padding: 0; }
+	.Restaurantside .right .text { padding: 10px; height: 100%; }
+	.Restaurantside .right .text h2 { font-size: 25px; }
+	.Restaurantside .right .text li { font-size: 15px; }
+	
+	.Entertainmentside { padding-top: 30px; }
+	.Entertainmentside .left { width: 100%; float: none; }
+	.Entertainmentside .left .last { display: none; }
+	.Entertainmentside .right { width: 100%; float: none; }
+	.Entertainmentside .left .move { box-shadow: 0px 0px 29px 0px rgba(0,0,0,0.36); }
+	.Entertainmentside .left .image img { margin: 0; }
+	.Entertainmentside .right .text { padding: 10px 0 20px; margin: 0; }
+	.Entertainmentside .right .move { box-shadow: 0px 0px 29px 0px rgba(0,0,0,0.36); }
+	.Entertainmentside .right .text h2 { font-size: 25px; }
+	.Entertainmentside .right .text p { font-size: 15px; line-height: normal; padding: 0; }
+	.Entertainmentside .right .move { display: block; }
+	.Entertainmentside .right .image img { margin: 0; }
+	
+	.Expresswayside { padding: 20px 0; }
+	.Expresswayside .right { width: 100%; float: none; }
+	.Expresswayside .right .image img { padding: 0; margin: 0; }
+	.Expresswayside .left { width: 100%; float: none; }
+	.Expresswayside .left .text { padding: 0 0 10px; }
+	.Expresswayside .left .text h2 { font-size: 25px; }
+	.Expresswayside .left .text p { font-size: 15px; line-height: normal; }
+	
+	.Uniqueside .left { width: 100%; float: none; text-align: center; }
+	.Uniqueside .left a img { width: 100px; }
+	.Uniqueside .mid { width: 100%; float: none; text-align: center; padding-bottom: 10px; }
+	.Uniqueside .mid p { font-size: 22px; padding-top: 10px; line-height: normal; }
+	.Uniqueside .right { width: 100%; float: none; text-align: center; }
+	.Uniqueside .right a { font-size: 16px; padding: 5px 20px; }
+	
+	.Contctside .map { width: 100%; float: none; }
+	.Contctside .form { width: 100%; float: none; padding: 0 15px; }
+	.Contctside .form .formside { width: 100%; float: none; padding: 30px 0; }
+	.Contctside .form .formside h2 { font-size: 25px; padding-bottom: 15px; }
+
+	.Aboutside .aboutbanner .overlay { padding: 130px 0 80px; }
+	.Aboutside .aboutbanner h3 { font-size: 30px; }
+	.Aboutside li .text { width: 100%; float: none; }
+	.Aboutside li .text#height .use { width: 100%; float: none; padding: 15px; }
+	.Aboutside li .text#height .use h4 { font-size: 19px; }
+	.Aboutside li .text#height .use h4::before { bottom: 10px; height: 2px; width: 70px; }
+	.Aboutside li .text .use a { padding: 8px 10px; font-size: 15px; }
+	.Aboutside li .text#height .use p { font-size: 14px; }
+	.Aboutside li .image { width: 100%; float: none; margin-top: 20px; }
+	.Aboutside li .image img.regd { margin: 50px auto; }	
+	.Aboutside li .text#height .use .team { height: auto; overflow: inherit; }
+	.Aboutside li .text#height .use .team li { font-size: 14px; }
+	
+	.Portfolio_sec .overlay { padding-top: 100px; }
+	.Portfolio_sec ul.remote { margin-top: 30px; margin-bottom: 0; }
+	.Portfolio_sec ul.remote li { padding: 0; margin: 5px; }
+	.portfolioside ul#portfolio li.item { width: 100%; float: none; }
+	.portfolioside ul#portfolio li.item img { width: 100%; }
+
+	.ContactVersion1 h2 { font-size: 30px; padding: 30px 0; }
+	.ContactVersion1 .overlay { padding-top: 100px; }
+	.ContactVersion1 .Map { width: 100%; float: none; margin: 0; }
+	.ContactVersion1 .Tab { width: 100%; float: none; }
+	.ContactVersion1 .Tab .contact { position: relative; left: 0; }
+	.ContactVersion1 .Tab .contact .text { padding: 20px; }
+	.ContactVersion1 .Tab .contact .text .add h4 { font-size: 18px; }
+	.ContactVersion1 .Tab .contact .bg { padding: 20px; }
+
+	.ContactVersion1 .ouraddress { margin-left: 0; width: 100%; float: none; }
+	.ContactVersion1 .ouraddress .text { padding: 30px; height: auto; }
+	.ContactVersion1 .bg { width: 100%; float: none; position: relative; top: 0; right: 0; margin-top: 30px; padding: 30px; }
+	
+	.Locationside .overlay { padding-top: 100px; }
+	.Locationside h2 { font-size: 30px; padding-bottom: 30px; padding-top: 20px; }
+	.Locationside .map iframe { height: 300px; }
+	.Locationside .left { width: 100%; float: none; }
+	.Locationside .right { width: 100%; float: none; margin-top: 15px; }
+	.Locationside .left .text { padding: 20px; }
+	
+	.AboutVersion1 .overlay { padding-bottom: 40px; padding-top: 95px; }
+	.AboutVersion1 .first { visibility: inherit; padding-top: 30px; }
+	.AboutVersion1 .first .Text .textside { position: relative; top: 0; left: 0; margin-top: 30px; width: 100%; }
+	.AboutVersion1 .first img { width: 49%; margin: 0 2% 0 0; }
+	.AboutVersion1 .first .Text .textside h2 { font-size: 20px; font-weight: 500; }
+	.AboutVersion1 .first .Left { width: 100%; float: none; }
+	.AboutVersion1 .first .Left .text h2 { font-size: 20px; }
+	.AboutVersion1 .first .Left .text p { padding-left: 0; }
+	.AboutVersion1 .first .Left .text { margin-bottom: 15px; position: initial; top: 0; right: 0; padding: 15px; width: 100%; }
+	.AboutVersion1 .first .Right { width: 100%; float: none; }
+	.AboutVersion1 .first .Right img { margin: 0 2% 15px 0; width: 49%; }
+	.AboutVersion1 .first .Right img:last-child { margin-right: 0; }
+	.AboutVersion1 .Second { visibility: inherit; padding-top: 30px; }
+	.AboutVersion1 .Second img { width: 49%; margin: 0 2% 15px 0; }
+	.AboutVersion1 .Second .Image { width: 100%; float: none; }
+	.AboutVersion1 .Second .Image .secimg { overflow: hidden; padding-left: 0; }
+	.AboutVersion1 .Second .Text { width: 100%; float: none; margin-top: 15px; }
+	.AboutVersion1 .Second .Text .textside { width: 100%; position: relative; top: 0; left: 0; padding: 15px; }
+	.AboutVersion1 .Second .Text .textside h2 { font-size: 20px; }
+	.AboutVersion1 .Second .Left .text { margin-bottom: 15px;}
+	.AboutVersion1 .Second .Left .text h2 { font-size: 25px; }
+	.AboutVersion1 .Second .Left .text p { padding-left: 0; }
+	.AboutVersion1 .Second .Left .text { position: initial; top: 0; right: 0; padding: 15px; }
+	
+
+	.AboutVersion1 .third { display: none; }
+	.AboutVersion1 .fourth { display: none; }
+	.AboutVersion1 .fifth { display: none; }
+	.AboutVersion1 .sixth { display: none; }
+	
+	.enquiryform h3 { font-size: 18px; }
+	.pop-up-content { padding: 40px 12px 12px; }
+	.enquiryform h4 { font-size: 15px; }
+	.enquiryform h4 span { font-size: 11px; }
+
+	.Downloadside h2 { font-size: 30px; margin: 0; }
+	.Downloadside li { width: 100%; margin: 0; float: none; }
+	.Downloadside li h3 { font-size: 25px; }
+	
+	footer { padding-top: 0; }
+	footer ul { display: none; }
+	footer .copyrightside .left { width: 100%; float: none; text-align: center; }
+	footer .copyrightside .left p { font-size: 12px; }
+	footer .copyrightside .right { width: 100%; float: none; text-align: center; padding-top: 0; }
+	footer .copyrightside li { float: none; display: inline-block; }
+	footer .copyrightside li a { font-size: 12px; }
+
+	.socialsec { top: 20%; }
+	a#open-pop-up-1 { top: 60% !important; }
+	.pop-up.large { max-width: inherit; top: 20% !important; }
+	
+	#popup_this { left: 0 !important; }
+	
+	.Bannersec .image { display: none; }
+	
+	.Locationside .left .text li span { width: 20px; }
+	
+	div.window { width: 135px; }
+	div.window label { font-size: 15px; }
+	input.toggle:checked ~ div { height: 55px; }
+	
+	}
+	
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {
+	
+	.Bannersec li { height: 350px !important; }
+	.Bannersec li .text { width: 85%; padding: 130px 15px 0; }
+	.Bannersec li .text h1 { font-size: 20px; line-height: normal; padding-bottom: 8px; }
+	.Bannersec li .text p { padding: 0 !important; font-size: 17px; line-height: normal; }
+	.Bannersec a.bottom { bottom: 50px; }
+	.Bannersec a.bottom span { width: 20px; height: 40px; }
+
+	.socialsec { top: 20%; }
+	a#open-pop-up-1 { top: 50%; }
+	.pop-up.large { max-width: inherit; top: 15% !important;  }
+		
+	}
